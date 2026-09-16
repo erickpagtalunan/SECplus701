@@ -152,7 +152,7 @@ vlan 50
 vlan 69
    name Erick
 vlan 70
-    name ACCOUNTING
+    name Sweeney
 vlan 71
     name HR
 vlan 100
